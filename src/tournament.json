@@ -1,0 +1,1112 @@
+{
+  "discord_creds": {
+    "guild_id": "1111286661062590574",
+    "role_id": "1141634033198039042",
+    "lobby_channel_id": "1141634038793248908",
+    "admin_channel_id": "1141634035601395742",
+    "info_channel_id": "1141634037052608574",
+    "admin_embed_id": "1141634041884463134",
+    "category_id": "1141634034548613201",
+    "vc_channel_id": "1141634040106057728",
+    "info_embed_id": "1141636078424567828",
+    "checkin_embed_id": "1141636162159661057"
+  },
+  "_id": "64ddcb8e7edb21086a88c21f",
+  "title": "SWC",
+  "image_uri": "",
+  "organizer": "64951b22e5e4777d6fd9668a",
+  "game": "CSGO",
+  "team_size": 5,
+  "region": "NA",
+  "subs": 0,
+  "format": "single_elimination",
+  "teams_per_match": 2,
+  "min_teams_per_match": 2,
+  "first_round_matches": 8,
+  "allow_byes": false,
+  "description": "SWC Test Tournament",
+  "entrance_fee": 10000,
+  "fee_type": "bitcoin",
+  "prize_pool": 21000000,
+  "prize_type": "bitcoin",
+  "fee_details": "",
+  "time_zone": "0",
+  "captain_only_checkin": true,
+  "registration_redirect": false,
+  "status": "check-in-closed",
+  "scoring": "64ac07ee10b2b920041f5b87",
+  "prizes": [],
+  "matches": [
+    {
+      "status": "created",
+      "games": [
+        {
+          "status": "created",
+          "map": "kings_canyon",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58415",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "storm_point",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58416",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "worlds_edge",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58417",
+          "teams": []
+        }
+      ],
+      "next_match": "64ddd036cdb9650647f58434",
+      "teams": [
+        {
+          "_id": "64ddd035cdb9650647f583cf",
+          "team_name": "TBC",
+          "users": [
+            {
+              "_id": "64945725dc7e39b9962e9299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f86ef907009dc02299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f8fa1b6420e5d48ea5",
+              "discord_id": "",
+              "ingame_id": null
+            }
+          ]
+        },
+        {
+          "_id": "64ddd035cdb9650647f583d7",
+          "team_name": "TBC",
+          "users": [
+            {
+              "_id": "64945725dc7e39b9962e9299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f86ef907009dc02299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f8fa1b6420e5d48ea5",
+              "discord_id": "",
+              "ingame_id": null
+            }
+          ]
+        }
+      ],
+      "discord_creds": {
+        "admin_results_msg_id": "",
+        "lineup_msg_id": "",
+        "info_results_msg_id": "",
+        "code_embed_id": "",
+        "role_id": "",
+        "admin_channel_id": "",
+        "info_channel_id": "",
+        "info_embed_id": ""
+      },
+      "_id": "64ddd036cdb9650647f58414"
+    },
+    {
+      "status": "created",
+      "games": [
+        {
+          "status": "created",
+          "map": "kings_canyon",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58419",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "storm_point",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f5841a",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "worlds_edge",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f5841b",
+          "teams": []
+        }
+      ],
+      "next_match": "64ddd036cdb9650647f58434",
+      "teams": [
+        {
+          "_id": "64ddd035cdb9650647f583d0",
+          "team_name": "TBC",
+          "users": [
+            {
+              "_id": "64945725dc7e39b9962e9299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f86ef907009dc02299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f8fa1b6420e5d48ea5",
+              "discord_id": "",
+              "ingame_id": null
+            }
+          ]
+        },
+        {
+          "_id": "64ddd035cdb9650647f583d8",
+          "team_name": "TBC",
+          "users": [
+            {
+              "_id": "64945725dc7e39b9962e9299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f86ef907009dc02299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f8fa1b6420e5d48ea5",
+              "discord_id": "",
+              "ingame_id": null
+            }
+          ]
+        }
+      ],
+      "discord_creds": {
+        "admin_results_msg_id": "",
+        "lineup_msg_id": "",
+        "info_results_msg_id": "",
+        "code_embed_id": "",
+        "role_id": "",
+        "admin_channel_id": "",
+        "info_channel_id": "",
+        "info_embed_id": ""
+      },
+      "_id": "64ddd036cdb9650647f58418"
+    },
+    {
+      "status": "created",
+      "games": [
+        {
+          "status": "created",
+          "map": "kings_canyon",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f5841d",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "storm_point",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f5841e",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "worlds_edge",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f5841f",
+          "teams": []
+        }
+      ],
+      "next_match": "64ddd036cdb9650647f58438",
+      "teams": [
+        {
+          "_id": "64ddd035cdb9650647f583d1",
+          "team_name": "TBC",
+          "users": [
+            {
+              "_id": "64945725dc7e39b9962e9299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f86ef907009dc02299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f8fa1b6420e5d48ea5",
+              "discord_id": "",
+              "ingame_id": null
+            }
+          ]
+        },
+        {
+          "_id": "64ddd035cdb9650647f583d9",
+          "team_name": "TBC",
+          "users": [
+            {
+              "_id": "64945725dc7e39b9962e9299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f86ef907009dc02299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f8fa1b6420e5d48ea5",
+              "discord_id": "",
+              "ingame_id": null
+            }
+          ]
+        }
+      ],
+      "discord_creds": {
+        "admin_results_msg_id": "",
+        "lineup_msg_id": "",
+        "info_results_msg_id": "",
+        "code_embed_id": "",
+        "role_id": "",
+        "admin_channel_id": "",
+        "info_channel_id": "",
+        "info_embed_id": ""
+      },
+      "_id": "64ddd036cdb9650647f5841c"
+    },
+    {
+      "status": "created",
+      "games": [
+        {
+          "status": "created",
+          "map": "kings_canyon",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58421",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "storm_point",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58422",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "worlds_edge",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58423",
+          "teams": []
+        }
+      ],
+      "next_match": "64ddd036cdb9650647f58438",
+      "teams": [
+        {
+          "_id": "64ddd035cdb9650647f583d2",
+          "team_name": "TBC",
+          "users": [
+            {
+              "_id": "64945725dc7e39b9962e9299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f86ef907009dc02299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f8fa1b6420e5d48ea5",
+              "discord_id": "",
+              "ingame_id": null
+            }
+          ]
+        },
+        {
+          "_id": "64ddd035cdb9650647f583da",
+          "team_name": "TBC",
+          "users": [
+            {
+              "_id": "64945725dc7e39b9962e9299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f86ef907009dc02299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f8fa1b6420e5d48ea5",
+              "discord_id": "",
+              "ingame_id": null
+            }
+          ]
+        }
+      ],
+      "discord_creds": {
+        "admin_results_msg_id": "",
+        "lineup_msg_id": "",
+        "info_results_msg_id": "",
+        "code_embed_id": "",
+        "role_id": "",
+        "admin_channel_id": "",
+        "info_channel_id": "",
+        "info_embed_id": ""
+      },
+      "_id": "64ddd036cdb9650647f58420"
+    },
+    {
+      "status": "created",
+      "games": [
+        {
+          "status": "created",
+          "map": "kings_canyon",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58425",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "storm_point",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58426",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "worlds_edge",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58427",
+          "teams": []
+        }
+      ],
+      "next_match": "64ddd036cdb9650647f5843c",
+      "teams": [
+        {
+          "_id": "64ddd035cdb9650647f583d3",
+          "team_name": "TBC",
+          "users": [
+            {
+              "_id": "64945725dc7e39b9962e9299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f86ef907009dc02299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f8fa1b6420e5d48ea5",
+              "discord_id": "",
+              "ingame_id": null
+            }
+          ]
+        },
+        {
+          "_id": "64ddd035cdb9650647f583db",
+          "team_name": "TBC",
+          "users": [
+            {
+              "_id": "64945725dc7e39b9962e9299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f86ef907009dc02299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f8fa1b6420e5d48ea5",
+              "discord_id": "",
+              "ingame_id": null
+            }
+          ]
+        }
+      ],
+      "discord_creds": {
+        "admin_results_msg_id": "",
+        "lineup_msg_id": "",
+        "info_results_msg_id": "",
+        "code_embed_id": "",
+        "role_id": "",
+        "admin_channel_id": "",
+        "info_channel_id": "",
+        "info_embed_id": ""
+      },
+      "_id": "64ddd036cdb9650647f58424"
+    },
+    {
+      "status": "created",
+      "games": [
+        {
+          "status": "created",
+          "map": "kings_canyon",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58429",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "storm_point",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f5842a",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "worlds_edge",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f5842b",
+          "teams": []
+        }
+      ],
+      "next_match": "64ddd036cdb9650647f5843c",
+      "teams": [
+        {
+          "_id": "64ddd035cdb9650647f583d4",
+          "team_name": "TBC",
+          "users": [
+            {
+              "_id": "64945725dc7e39b9962e9299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f86ef907009dc02299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f8fa1b6420e5d48ea5",
+              "discord_id": "",
+              "ingame_id": null
+            }
+          ]
+        },
+        {
+          "_id": "64ddd035cdb9650647f583dc",
+          "team_name": "TBC",
+          "users": [
+            {
+              "_id": "64945725dc7e39b9962e9299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f86ef907009dc02299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f8fa1b6420e5d48ea5",
+              "discord_id": "",
+              "ingame_id": null
+            }
+          ]
+        }
+      ],
+      "discord_creds": {
+        "admin_results_msg_id": "",
+        "lineup_msg_id": "",
+        "info_results_msg_id": "",
+        "code_embed_id": "",
+        "role_id": "",
+        "admin_channel_id": "",
+        "info_channel_id": "",
+        "info_embed_id": ""
+      },
+      "_id": "64ddd036cdb9650647f58428"
+    },
+    {
+      "status": "created",
+      "games": [
+        {
+          "status": "created",
+          "map": "kings_canyon",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f5842d",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "storm_point",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f5842e",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "worlds_edge",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f5842f",
+          "teams": []
+        }
+      ],
+      "next_match": "64ddd036cdb9650647f58440",
+      "teams": [
+        {
+          "_id": "64ddd035cdb9650647f583d5",
+          "team_name": "TBC",
+          "users": [
+            {
+              "_id": "64945725dc7e39b9962e9299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f86ef907009dc02299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f8fa1b6420e5d48ea5",
+              "discord_id": "",
+              "ingame_id": null
+            }
+          ]
+        },
+        {
+          "_id": "64ddd035cdb9650647f583dd",
+          "team_name": "TBC",
+          "users": [
+            {
+              "_id": "64945725dc7e39b9962e9299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f86ef907009dc02299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f8fa1b6420e5d48ea5",
+              "discord_id": "",
+              "ingame_id": null
+            }
+          ]
+        }
+      ],
+      "discord_creds": {
+        "admin_results_msg_id": "",
+        "lineup_msg_id": "",
+        "info_results_msg_id": "",
+        "code_embed_id": "",
+        "role_id": "",
+        "admin_channel_id": "",
+        "info_channel_id": "",
+        "info_embed_id": ""
+      },
+      "_id": "64ddd036cdb9650647f5842c"
+    },
+    {
+      "status": "created",
+      "games": [
+        {
+          "status": "created",
+          "map": "kings_canyon",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58431",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "storm_point",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58432",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "worlds_edge",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58433",
+          "teams": []
+        }
+      ],
+      "next_match": "64ddd036cdb9650647f58440",
+      "teams": [
+        {
+          "_id": "64ddd035cdb9650647f583d6",
+          "team_name": "TBC",
+          "users": [
+            {
+              "_id": "64945725dc7e39b9962e9299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f86ef907009dc02299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f8fa1b6420e5d48ea5",
+              "discord_id": "",
+              "ingame_id": null
+            }
+          ]
+        },
+        {
+          "_id": "64ddd035cdb9650647f583de",
+          "team_name": "TBC",
+          "users": [
+            {
+              "_id": "64945725dc7e39b9962e9299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f86ef907009dc02299",
+              "discord_id": "",
+              "ingame_id": null
+            },
+            {
+              "_id": "649bd2f8fa1b6420e5d48ea5",
+              "discord_id": "",
+              "ingame_id": null
+            }
+          ]
+        }
+      ],
+      "discord_creds": {
+        "admin_results_msg_id": "",
+        "lineup_msg_id": "",
+        "info_results_msg_id": "",
+        "code_embed_id": "",
+        "role_id": "",
+        "admin_channel_id": "",
+        "info_channel_id": "",
+        "info_embed_id": ""
+      },
+      "_id": "64ddd036cdb9650647f58430"
+    },
+    {
+      "status": "created",
+      "games": [
+        {
+          "status": "created",
+          "map": "kings_canyon",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58435",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "storm_point",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58436",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "worlds_edge",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58437",
+          "teams": []
+        }
+      ],
+      "next_match": "64ddd036cdb9650647f5844c",
+      "teams": [],
+      "discord_creds": {
+        "admin_results_msg_id": "",
+        "lineup_msg_id": "",
+        "info_results_msg_id": "",
+        "code_embed_id": "",
+        "role_id": "",
+        "admin_channel_id": "",
+        "info_channel_id": "",
+        "info_embed_id": ""
+      },
+      "_id": "64ddd036cdb9650647f58434"
+    },
+    {
+      "status": "created",
+      "games": [
+        {
+          "status": "created",
+          "map": "kings_canyon",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58439",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "storm_point",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f5843a",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "worlds_edge",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f5843b",
+          "teams": []
+        }
+      ],
+      "next_match": "64ddd036cdb9650647f5844c",
+      "teams": [],
+      "discord_creds": {
+        "admin_results_msg_id": "",
+        "lineup_msg_id": "",
+        "info_results_msg_id": "",
+        "code_embed_id": "",
+        "role_id": "",
+        "admin_channel_id": "",
+        "info_channel_id": "",
+        "info_embed_id": ""
+      },
+      "_id": "64ddd036cdb9650647f58438"
+    },
+    {
+      "status": "created",
+      "games": [
+        {
+          "status": "created",
+          "map": "kings_canyon",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f5843d",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "storm_point",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f5843e",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "worlds_edge",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f5843f",
+          "teams": []
+        }
+      ],
+      "next_match": "64ddd036cdb9650647f5844c",
+      "teams": [],
+      "discord_creds": {
+        "admin_results_msg_id": "",
+        "lineup_msg_id": "",
+        "info_results_msg_id": "",
+        "code_embed_id": "",
+        "role_id": "",
+        "admin_channel_id": "",
+        "info_channel_id": "",
+        "info_embed_id": ""
+      },
+      "_id": "64ddd036cdb9650647f5843c"
+    },
+    {
+      "status": "created",
+      "games": [
+        {
+          "status": "created",
+          "map": "kings_canyon",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58441",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "storm_point",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58442",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "worlds_edge",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58443",
+          "teams": []
+        }
+      ],
+      "next_match": "64ddd036cdb9650647f5844c",
+      "teams": [],
+      "discord_creds": {
+        "admin_results_msg_id": "",
+        "lineup_msg_id": "",
+        "info_results_msg_id": "",
+        "code_embed_id": "",
+        "role_id": "",
+        "admin_channel_id": "",
+        "info_channel_id": "",
+        "info_embed_id": ""
+      },
+      "_id": "64ddd036cdb9650647f58440"
+    },
+    {
+      "status": "created",
+      "games": [
+        {
+          "status": "created",
+          "map": "kings_canyon",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58445",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "storm_point",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58446",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "worlds_edge",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58447",
+          "teams": []
+        }
+      ],
+      "next_match": "64ddd036cdb9650647f5844c",
+      "teams": [],
+      "discord_creds": {
+        "admin_results_msg_id": "",
+        "lineup_msg_id": "",
+        "info_results_msg_id": "",
+        "code_embed_id": "",
+        "role_id": "",
+        "admin_channel_id": "",
+        "info_channel_id": "",
+        "info_embed_id": ""
+      },
+      "_id": "64ddd036cdb9650647f58444"
+    },
+    {
+      "status": "created",
+      "games": [
+        {
+          "status": "created",
+          "map": "kings_canyon",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f58449",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "storm_point",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f5844a",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "worlds_edge",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f5844b",
+          "teams": []
+        }
+      ],
+      "next_match": "64ddd036cdb9650647f5844c",
+      "teams": [],
+      "discord_creds": {
+        "admin_results_msg_id": "",
+        "lineup_msg_id": "",
+        "info_results_msg_id": "",
+        "code_embed_id": "",
+        "role_id": "",
+        "admin_channel_id": "",
+        "info_channel_id": "",
+        "info_embed_id": ""
+      },
+      "_id": "64ddd036cdb9650647f58448"
+    },
+    {
+      "status": "created",
+      "games": [
+        {
+          "status": "created",
+          "map": "kings_canyon",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f5844d",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "storm_point",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f5844e",
+          "teams": []
+        },
+        {
+          "status": "created",
+          "map": "worlds_edge",
+          "results_msg_id": "",
+          "results": {
+            "teams": []
+          },
+          "_id": "64ddd036cdb9650647f5844f",
+          "teams": []
+        }
+      ],
+      "next_match": null,
+      "teams": [],
+      "discord_creds": {
+        "admin_results_msg_id": "",
+        "lineup_msg_id": "",
+        "info_results_msg_id": "",
+        "code_embed_id": "",
+        "role_id": "",
+        "admin_channel_id": "",
+        "info_channel_id": "",
+        "info_embed_id": ""
+      },
+      "_id": "64ddd036cdb9650647f5844c"
+    }
+  ],
+  "teams": [],
+  "createdAt": "2023-08-17T07:26:06.411Z",
+  "updatedAt": "2023-08-17T07:45:58.867Z",
+  "__v": 1,
+  "checkin_close": "2023-08-18T23:30:00.000Z",
+  "checkin_open": "2023-08-18T19:00:00.000Z",
+  "start_time": "2023-08-19T00:00:00.000Z"
+}
