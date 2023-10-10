@@ -3,7 +3,7 @@
     SingleEliminationBracket,
     Match,
     createTheme
-  } from '@dustup/react-tournament-brackets'
+  } from '@g-loot/react-tournament-brackets'
   import './App.css'
   import tournamentObj from  './tournament.json'
 
